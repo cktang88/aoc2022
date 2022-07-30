@@ -9,4 +9,5 @@ possible languages
 - golang + generics
 - zig
 - lua
+- awk
 - ~~nim - too unpopular (not even top 50 TIOBE/stack overflow/github)~~
